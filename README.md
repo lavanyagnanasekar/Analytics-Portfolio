@@ -1,4 +1,4 @@
-# Analytics-Portfolio
+# Lavanya Gnanasekar's Portfolio
 
 Hi there! My name is Lavanya, a masters graduate majoring in Information Systems focusing on Data Analytics and Machine Learning. 
 
